@@ -1,0 +1,8 @@
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\bin\Debug\Buoi01_4.exe.config
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\bin\Debug\Buoi01_4.exe
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\bin\Debug\Buoi01_4.pdb
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\obj\Debug\Buoi01_4.csproj.AssemblyReference.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\obj\Debug\Buoi01_4.csproj.SuggestedBindingRedirects.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\obj\Debug\Buoi01_4.csproj.CoreCompileInputs.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\obj\Debug\Buoi01_4.exe
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_4\obj\Debug\Buoi01_4.pdb
