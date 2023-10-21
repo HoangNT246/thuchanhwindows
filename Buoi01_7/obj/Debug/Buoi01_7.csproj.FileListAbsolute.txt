@@ -2,7 +2,6 @@ E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\bin\Debug\Buoi01_7.exe.conf
 E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\bin\Debug\Buoi01_7.exe
 E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\bin\Debug\Buoi01_7.pdb
 E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\obj\Debug\Buoi01_7.csproj.AssemblyReference.cache
-E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\obj\Debug\Buoi01_7.csproj.SuggestedBindingRedirects.cache
 E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\obj\Debug\Buoi01_7.csproj.CoreCompileInputs.cache
 E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\obj\Debug\Buoi01_7.exe
 E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi01_7\obj\Debug\Buoi01_7.pdb
