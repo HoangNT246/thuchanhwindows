@@ -1,0 +1,10 @@
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\bin\Debug\Buoi05_3.exe.config
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\bin\Debug\Buoi05_3.exe
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\bin\Debug\Buoi05_3.pdb
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\obj\Debug\Buoi05_3.csproj.AssemblyReference.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\obj\Debug\Buoi05_3.Form1.resources
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\obj\Debug\Buoi05_3.Properties.Resources.resources
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\obj\Debug\Buoi05_3.csproj.GenerateResource.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\obj\Debug\Buoi05_3.csproj.CoreCompileInputs.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\obj\Debug\Buoi05_3.exe
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Buoi05_3\obj\Debug\Buoi05_3.pdb

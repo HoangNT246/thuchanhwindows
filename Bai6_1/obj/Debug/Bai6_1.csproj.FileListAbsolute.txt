@@ -1,0 +1,11 @@
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\bin\Debug\Bai6_1.exe.config
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\bin\Debug\Bai6_1.exe
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\bin\Debug\Bai6_1.pdb
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.csproj.AssemblyReference.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.Form1.resources
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.frmKhoa.resources
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.Properties.Resources.resources
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.csproj.GenerateResource.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.csproj.CoreCompileInputs.cache
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.exe
+E:\NguyenTanHoang_2121110131\NguyenTanHoang\Bai6_1\obj\Debug\Bai6_1.pdb
